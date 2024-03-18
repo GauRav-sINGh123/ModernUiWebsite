@@ -6,9 +6,9 @@
 function Hero() {
   return (
     <div className='flex flex-col items-center mt-3 lg:mt-15'>
-       <h1 className='text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide'>Virtual Build Tools 
+       <h1 className='text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide'>"Explore the cutting-edge features 
       <span className='bg-gradient-to-r  from-pink-600 to-violet-900 text-transparent bg-clip-text' > 
-       {" "}  For Developers 
+       {" "}  Of Cybritech"
       </span>
      </h1> 
      <p className="mt-10 text-lg text-center text-neutral-700 max-w-4xl">If future generations are to remember us more with gratitude than sorrow, we must achieve more than just the miracles of technology. We must also leave them a glimpse of the world as it was created, not just as it looked when we got through with it.
