@@ -6,8 +6,8 @@
 function Hero() {
   return (
     <div className='flex flex-col items-center mt-3 lg:mt-15'>
-       <h1 className='text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide'>"Explore the cutting-edge features 
-      <span className='bg-gradient-to-r  from-pink-600 to-violet-900 text-transparent bg-clip-text' > 
+       <h1 className='text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide leading-[1.27rem]'>"Explore the cutting-edge features 
+      <span className='bg-gradient-to-r  from-pink-600 to-violet-900 text-transparent bg-clip-text mt-' > 
        {" "}  Of Cybritech"
       </span>
      </h1> 
